@@ -43,7 +43,7 @@
 
 ### Detalhar os commits
 <p>git log </p>
-> No caso de ficar preso dentro do git log (em modo visualização), basta clicar "q" >
+>No caso de ficar preso dentro do git log (em modo visualização), basta clicar "q"> 
 
 ### Excluir alterações incorretas ou desnecessárias
 <p>git checkout (exclusão irreversível; apaga definitivamente todas as alterações realizadas)</p>
