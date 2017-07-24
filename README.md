@@ -20,6 +20,7 @@
 ## Clear
 <p>clear (limpa a tela e mostra apenas o que preciso ver, mas não apaga do histórico)</p>
 
+
 # Git
 ## Clonar arquivo do Github
 <p>git clone https://github.com/seuusuario/nomedoarquivo</p>
@@ -42,7 +43,7 @@
 
 ## Detalhar os commits
 <p>git log </p>
-> Em caso de ficar preso dentro do git log (em modo visualização), basta clicar "q"
+> **Em caso de ficar preso dentro do git log (em modo visualização), basta clicar "q" **
 
 ## Excluir alterações incorretas ou desnecessárias
 <p>git checkout (exclusão irreversível; apaga definitivamente todas as alterações realizadas)</p>
